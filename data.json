@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Rodrigo",
+        "team": "IBM",
+        "pointsPerGame": "27"
+    },
+
+    {
+        "name": "Vinicius",
+        "team": "DELL",
+        "pointsPerGame": "26"
+    }
+]

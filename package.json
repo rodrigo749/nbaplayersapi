@@ -4,13 +4,18 @@
   "description": "node api hosted on heroku",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
-    "heroku": "^7.47.11"
+    "heroku": "^7.47.11",
+    "nodemon": "^2.0.7",
+    "pg": "^8.5.1"
   },
   "engines": {
     "node": "14.9.0"

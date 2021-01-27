@@ -1,13 +1,15 @@
 [
     {
-        "name": "Rodrigo",
-        "team": "IBM",
-        "pointsPerGame": "27"
+        "cpf": "10804274657",
+        "voto": "SIM"
+        
     },
 
     {
-        "name": "Vinicius",
-        "team": "DELL",
-        "pointsPerGame": "26"
+        "cpf": "11545632006",
+        "voto": "NÃO"
     }
+
+
+ 
 ]
